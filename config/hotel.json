@@ -1,0 +1,35 @@
+{
+    "authentication": {
+        "apiKey": "testtesttesttesttest",
+        "propKey": "66197apitest66197apitest"
+    },
+    "roomId": "154156",
+    "dates":{},
+    "list_of_hotels":[
+        {
+            "name":"Premium+Apartment+München+Messe%2C+München%2C+Bayern%2C+Deutschland",
+            "id":"4119152",
+            "full_name": "Premium Apartment München Messe",
+            "url": "https://www.booking.com/hotel/de/premium-apartment-munchen-messe.de.html?aid=304142;"
+        },
+        {
+            "name":"Motel+One+München+-+Messe%2C+München%2C+Bayern%2C+Deutschland",
+            "id":"3631381",
+            "full_name": "Motel One München-Messe",
+            "url": "https://www.booking.com/hotel/de/motel-one-munchen-messe.de.html?aid=304142;"
+        },
+        {
+            "name":"H2+Hotel+München+Messe%2C+München%2C+Bayern%2C+Deutschland",
+            "id":"714905",
+            "full_name": "H2 Hotel München Messe",
+            "url": "https://www.booking.com/hotel/de/h2-ma1-4nchen-messe.de.html?aid=304142;"
+        },
+        {
+            "name":"H4+Hotel+München+Messe%2C+München%2C+Bayern%2C+Deutschland",
+            "id":"714886",
+            "full_name": "H4 Hotel München Messe",
+            "url": "https://www.booking.com/hotel/de/h4-hotel-munchen-messe.de.html?aid=304142;"
+        }
+    ]
+    
+}
